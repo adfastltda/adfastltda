@@ -1,4 +1,4 @@
-![ADFAST LTDA GitHub stats](https://github-readme-stats.vercel.app/api?username=adfastltda&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adfastltda&show_icons=true&theme=highcontrast)
 
 - 👋 Hi, I’m @adfastltda
 - 👀 I’m interested in music
